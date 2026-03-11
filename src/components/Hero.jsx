@@ -79,7 +79,7 @@ const Hero = () => {
           >
             <div className="w-32 h-32 rounded-full bg-gradient-to-br from-accent-cyan to-accent-purple p-1">
               <img 
-                src="/IMG_6956.jpeg" 
+                src="./IMG_6956.jpeg" 
                 alt="Niladri Podder"
                 className="w-full h-full rounded-full object-cover"
               />
