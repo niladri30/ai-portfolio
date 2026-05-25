@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: './', // Relative path for SAP GitHub Pages
+  base: '/ai-portfolio/', // GitHub Pages project site path
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
