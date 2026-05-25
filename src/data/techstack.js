@@ -47,7 +47,6 @@ export const techStack = {
       { name: "Neo4j (Knowledge Graphs)", proficiency: 85 },
       { name: "FAISS", proficiency: 80 },
       { name: "ChromaDB", proficiency: 80 },
-      { name: "Knowledge Graph Design", proficiency: 85 },
       { name: "Vector Databases", proficiency: 90 }
     ]
   },
@@ -63,8 +62,25 @@ export const techStack = {
       { name: "GitHub / Git", proficiency: 90 },
       { name: "SAP BTP Kyma", proficiency: 80 },
       { name: "Cloud Foundry", proficiency: 85 },
-      { name: "CI/CD Pipelines", proficiency: 80 },
-      { name: "JFrog Artifactory", proficiency: 75 }
+      { name: "CI/CD Pipelines", proficiency: 80 }
+    ]
+  },
+  "IoT & Protocols": {
+    icon: "radio",
+    color: "from-teal-500 to-cyan-500",
+    technologies: [
+      { name: "MQTT (Message Queuing Telemetry Transport)", proficiency: 95 },
+      { name: "LwM2M (Lightweight M2M)", proficiency: 90 },
+      { name: "LORA (Long Range)", proficiency: 85 },
+      { name: "CoAP (Constrained Application Protocol)", proficiency: 85 },
+      { name: "HTTP/HTTPS for IoT", proficiency: 95 },
+      { name: "WebSocket", proficiency: 85 },
+      { name: "AMQP (Advanced Message Queuing Protocol)", proficiency: 80 },
+      { name: "IoT Device Management", proficiency: 90 },
+      { name: "Edge Computing", proficiency: 85 },
+      { name: "Sensor Integration", proficiency: 90 },
+      { name: "IoT Security & Authentication", proficiency: 85 },
+      { name: "Device Provisioning & OTA Updates", proficiency: 85 }
     ]
   },
   "Document & Process AI": {

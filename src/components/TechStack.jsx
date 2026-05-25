@@ -5,7 +5,8 @@ import {
   Code, 
   Database, 
   Cloud, 
-  FileText 
+  FileText,
+  Radio 
 } from 'lucide-react';
 import { techStack, techCategories } from '../data/techstack';
 import SectionHeading from './SectionHeading';
@@ -17,6 +18,7 @@ const iconMap = {
   database: Database,
   cloud: Cloud,
   fileText: FileText,
+  radio: Radio,
 };
 
 const TechStack = () => {

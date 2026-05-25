@@ -3,10 +3,12 @@ export const timeline = [
     id: 1,
     period: "2023 - Present",
     role: "SAP AI Architect | Generative AI Lead",
-    company: "SAP",
-    location: "India",
-    description: "Leading enterprise AI architecture and solution delivery across multiple industries. Driving adoption of SAP AI services, generative AI, and agentic workflows in customer engagements.",
+    company: "SAP Labs",
+    location: "South East Asia (Previously India)",
+    description: "Leading enterprise AI architecture and solution delivery across South East Asia. Previously led AI initiatives for India with numerous success stories across multiple business lines. Driving adoption of SAP AI services, generative AI, and agentic workflows in customer engagements.",
     highlights: [
+      "Currently leading AI initiatives for South East Asia region",
+      "Previously led India region with multiple successful business line implementations",
       "Built and mentored a 45+ member AI team",
       "Architected and delivered 10+ enterprise AI solutions",
       "Led customer success stories in manufacturing, finance, and oil & gas",
@@ -29,29 +31,33 @@ export const timeline = [
     role: "Senior Solution Architect | IoT Practice Lead",
     company: "Amazon Web Services (AWS)",
     location: "India",
-    description: "Led IoT initiatives and solution architecture for 33+ customers across India. Aligned pre-sales, solution design, and customer engagement to deliver end-to-end IoT solutions using AWS services.",
+    description: "Led IoT initiatives and solution architecture for 33+ customers across India. Aligned pre-sales, solution design, and customer engagement to deliver end-to-end IoT solutions using AWS services and IoT protocols.",
     highlights: [
       "Headed IoT initiative serving 33+ customers across India",
       "Led pre-sales and solution design for enterprise IoT deployments",
-      "Architected end-to-end IoT solutions using AWS IoT services",
+      "Architected end-to-end IoT solutions using AWS IoT services and protocols",
+      "Implemented device connectivity using MQTT, CoAP, and HTTP protocols",
+      "Designed sensor integration solutions for industrial IoT deployments",
       "Engaged directly with customers for technical consultation and delivery",
       "Awarded as Top Performer in a quarter",
-      "Designed scalable IoT architectures for manufacturing and industrial sectors"
+      "Designed scalable IoT architectures for manufacturing and industrial sectors",
+      "Worked with diverse IoT devices and smart sensors across various protocols"
     ],
     achievements: [
       "Successfully delivered 33+ IoT customer engagements",
       "Recognized as Top Performer for exceptional delivery and customer satisfaction",
       "Established IoT best practices and solution patterns for AWS India",
-      "Drove adoption of AWS IoT Core, Greengrass, and analytics services"
+      "Drove adoption of AWS IoT Core, Greengrass, and analytics services",
+      "Implemented device management and monitoring for large-scale deployments"
     ],
-    technologies: ["AWS IoT Core", "AWS IoT Greengrass", "Lambda", "Kinesis", "SageMaker", "DynamoDB", "API Gateway"],
+    technologies: ["AWS IoT Core", "AWS IoT Greengrass", "MQTT", "CoAP", "Lambda", "Kinesis", "SageMaker", "DynamoDB", "API Gateway", "IoT Device Management"],
     type: "past"
   },
   {
     id: 3,
     period: "2018 - 2021",
     role: "Solution Architect",
-    company: "SAP",
+    company: "SAP Labs",
     location: "India",
     description: "Solution architecture for SAP BTP applications with focus on cloud-native development, integration, and enterprise solutions. Early contributions to AI/ML exploration initiatives.",
     highlights: [
@@ -75,11 +81,14 @@ export const timeline = [
     role: "Technical Architect | IoT Platform Lead",
     company: "BT (British Telecom)",
     location: "India",
-    description: "Led the development and deployment of BT's IoT Platform, one of the company's biggest wins in the UK market. Architected and delivered enterprise IoT solutions including Smart Office, driving significant customer adoption and business growth.",
+    description: "Led the development and deployment of BT's IoT Platform, one of the company's biggest wins in the UK market. Architected and delivered enterprise IoT solutions including Smart Office with comprehensive device connectivity using industry-standard IoT protocols.",
     highlights: [
       "Built BT's IoT Platform from ground up, hosted on BT's own infrastructure",
       "Delivered one of BT's biggest wins in UK market with widespread customer adoption",
-      "Architected and implemented Smart Office solution",
+      "Implemented multi-protocol device connectivity (MQTT, LwM2M, HTTP, CoAP)",
+      "Architected and implemented Smart Office solution with sensor integration",
+      "Designed device management framework for thousands of connected devices",
+      "Integrated LORA-based sensors for long-range low-power communications",
       "Led technical teams in delivering complex IoT and integration solutions",
       "Drove business growth through successful IoT platform deployments",
       "Established IoT architecture standards and best practices for BT"
@@ -88,9 +97,11 @@ export const timeline = [
       "Successfully launched BT's IoT Platform serving multiple UK customers",
       "Enabled significant business growth through platform adoption",
       "Delivered Smart Office solution for enterprise customers",
-      "Built scalable, enterprise-grade IoT infrastructure on BT servers"
+      "Built scalable, enterprise-grade IoT infrastructure on BT servers",
+      "Achieved seamless integration of diverse IoT devices and sensors",
+      "Implemented robust device lifecycle management and monitoring"
     ],
-    technologies: ["IoT Platform", "Java", "Spring", "Microservices", "Oracle", "REST APIs", "ESB", "Smart Office"],
+    technologies: ["IoT Platform", "MQTT", "LwM2M", "LORA", "CoAP", "HTTP", "Java", "Spring", "Microservices", "Oracle", "REST APIs", "ESB", "Smart Office", "Device Management"],
     type: "past"
   },
   {
