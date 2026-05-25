@@ -159,7 +159,7 @@ const Metrics = () => {
           <div className="glass-effect inline-block px-8 py-4 rounded-full">
             <p className="text-gray-300">
               <span className="font-semibold text-accent-cyan">Proven expertise</span> in 
-              SAP + AI + Process Automation across enterprise domains
+              SAP + AI + IoT across enterprise domains
             </p>
           </div>
         </motion.div>

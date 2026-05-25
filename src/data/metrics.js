@@ -9,7 +9,7 @@ export const metrics = [
   },
   {
     id: 2,
-    value: 10,
+    value: 17,
     suffix: "+",
     label: "Enterprise AI Initiatives",
     description: "End-to-end solution architecture and delivery",
@@ -17,10 +17,10 @@ export const metrics = [
   },
   {
     id: 3,
-    value: 4,
+    value: 6,
     suffix: "",
     label: "Industry Verticals",
-    description: "Manufacturing, Banking, Oil & Gas, Shared Services",
+    description: "Manufacturing, Banking, Oil & Gas, Shared Services, Telecom, Energy",
     icon: "building"
   },
   {

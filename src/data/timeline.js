@@ -2,9 +2,9 @@ export const timeline = [
   {
     id: 1,
     period: "2023 - Present",
-    role: "SAP AI Architect | Generative AI Lead",
+    role: "SAP AI Architect | AI Lead - South East Asia",
     company: "SAP Labs",
-    location: "South East Asia (Previously India)",
+    location: "India",
     description: "Leading enterprise AI architecture and solution delivery across South East Asia. Previously led AI initiatives for India with numerous success stories across multiple business lines. Driving adoption of SAP AI services, generative AI, and agentic workflows in customer engagements.",
     highlights: [
       "Currently leading AI initiatives for South East Asia region",

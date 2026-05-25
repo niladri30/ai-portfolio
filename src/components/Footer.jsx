@@ -131,7 +131,7 @@ const Footer = () => {
             </p>
 
             <p className="text-xs">
-              Powered by React + Vite + Tailwind + Framer Motion
+              {/* Powered by React + Vite + Tailwind + Framer Motion */}
             </p>
           </div>
         </motion.div>
