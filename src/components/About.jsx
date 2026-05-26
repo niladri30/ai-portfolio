@@ -130,6 +130,10 @@ const About = () => {
                   <span className="text-accent-cyan mr-2">•</span>
                   Python, Flask, Streamlit, LangChain
                 </li>
+                <li className="flex items-start">
+                  <span className="text-accent-cyan mr-2">•</span>
+                  IoT, Edge Computing, Protocols, IIoT Platforms
+                </li>
               </ul>
             </div>
 

@@ -114,7 +114,7 @@ const Contact = () => {
           {/* Download Resume Button */}
           <div className="mt-8">
             <motion.a
-              href="/resume.pdf"
+              href="/ai-portfolio/resume.pdf"
               download="Niladri_Podder_Resume.pdf"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
