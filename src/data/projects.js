@@ -3,7 +3,7 @@ export const projects = [
     id: 1,
     title: "EarningsAI Assistant",
     category: "GenAI",
-    customer: "Standard Chartered Bank",
+    customer: "Biggest South East Asian Bank",
     description: "Enterprise earnings analysis platform with AI-powered insights and natural language querying.",
     detailedDescription: "A sophisticated AI assistant that analyzes earnings reports using large language models, providing executives with instant insights, trend analysis, and comparative financial intelligence across quarters and competitors.",
     problem: "Finance teams spend hours manually analyzing earnings reports, extracting key metrics, and comparing performance across periods. This manual process is time-consuming and prone to missing critical insights.",

@@ -41,7 +41,7 @@ export const customerStories = [
   {
     id: 2,
     title: "EarningsAI Assistant",
-    customer: "Standard Chartered Bank",
+    customer: "Biggest South East Asian Bank",
     industry: "Banking & Financial Services",
     companySize: "Global Financial Institution",
     challenge: "Finance teams spent hours manually analyzing earnings reports, extracting key metrics, and comparing performance across periods. This manual process was time-consuming and prone to missing critical insights. Executives needed quick access to comparative financial intelligence across quarters and competitors, but traditional analysis methods couldn't keep pace with information demands.",
